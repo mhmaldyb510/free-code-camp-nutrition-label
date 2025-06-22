@@ -17,7 +17,7 @@ Through this project, I learned and practiced:
 
 ## 🚀 Live Preview
 
-[Live Demo](#) <!-- (Replace # with the link to your live site if hosted, e.g., GitHub Pages) -->
+[Live Demo](https://mhmaldyb510.github.io/free-code-camp-nutrition-label/) <!-- (Replace # with the link to your live site if hosted, e.g., GitHub Pages) -->
 
 ## 🛠️ Built With
 
